@@ -27,4 +27,4 @@ python train.py
 After about 100 epochs of training, the prediction accuracy reached 100%
 
 ## Extensions
-* Use fast weight for language modeling
+* Use fast weight for language model
